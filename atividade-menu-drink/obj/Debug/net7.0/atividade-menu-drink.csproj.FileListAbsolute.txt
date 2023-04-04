@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\bin\Debug\net7.0\atividade-menu-drink.exe
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\bin\Debug\net7.0\atividade-menu-drink.deps.json
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\bin\Debug\net7.0\atividade-menu-drink.runtimeconfig.json
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\bin\Debug\net7.0\atividade-menu-drink.dll
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\bin\Debug\net7.0\atividade-menu-drink.pdb
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.dll
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\refint\atividade-menu-drink.dll
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.pdb
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\atividade-menu-drink.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\c-\atividade-menu-drink\obj\Debug\net7.0\ref\atividade-menu-drink.dll
