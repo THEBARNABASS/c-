@@ -76,7 +76,7 @@ switch (escolha)
      break;
      
      case "3":
-     Console.WriteLine($"A bebida escolhida foi suco.");
+     Console.WriteLine($"A bebida escolhida foi Refrigerante.");
      Console.WriteLine($"Acompanha gelo?");
      string gelorefri = Console.ReadLine().ToLower();
 
@@ -96,7 +96,7 @@ switch (escolha)
      break;
      
     case "4":
-     Console.WriteLine($"A bebida escolhida foi suco.");
+     Console.WriteLine($"A bebida escolhida foi cerveja.");
      Console.WriteLine($"Acompanha gelo?");
      string gelocerveja = Console.ReadLine().ToLower();
 
@@ -116,7 +116,7 @@ switch (escolha)
      break;
      
      case "5":
-     Console.WriteLine($"A bebida escolhida foi suco.");
+     Console.WriteLine($"A bebida escolhida foi drink.");
      Console.WriteLine($"Acompanha gelo?");
      string gelodrinks = Console.ReadLine().ToLower();
 
