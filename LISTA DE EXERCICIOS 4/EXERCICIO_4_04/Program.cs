@@ -1,13 +1,13 @@
 ﻿// - Faça um programa que leia 10 valores digitados pelo usuário e no final, escreva o maior e o
 // menor valor lido
 
-int[] nmr = new int[5];
+int[] nmr = new int[10];
 
 int menor = 0,maior = 0;
 Console.WriteLine($"Informe 10 numeros:");
 
 
-for (int i = 0; i < 5; i++)
+for (int i = 0; i < 10; i++)
 {
     Console.WriteLine($"Informe o {i+1}º número: ");    
     nmr[i] = int.Parse(Console.ReadLine());       

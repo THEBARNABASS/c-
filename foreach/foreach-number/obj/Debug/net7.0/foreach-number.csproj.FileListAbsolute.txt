@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\bin\Debug\net7.0\foreach-number.exe
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\bin\Debug\net7.0\foreach-number.deps.json
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\bin\Debug\net7.0\foreach-number.runtimeconfig.json
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\bin\Debug\net7.0\foreach-number.dll
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\bin\Debug\net7.0\foreach-number.pdb
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.dll
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\refint\foreach-number.dll
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.pdb
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\foreach-number.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\c-\foreach\foreach-number\obj\Debug\net7.0\ref\foreach-number.dll
