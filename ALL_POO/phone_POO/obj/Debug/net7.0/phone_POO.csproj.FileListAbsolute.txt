@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\phone_POO\bin\Debug\net7.0\phone_POO.exe
+C:\Users\57256639813\Desktop\phone_POO\bin\Debug\net7.0\phone_POO.deps.json
+C:\Users\57256639813\Desktop\phone_POO\bin\Debug\net7.0\phone_POO.runtimeconfig.json
+C:\Users\57256639813\Desktop\phone_POO\bin\Debug\net7.0\phone_POO.dll
+C:\Users\57256639813\Desktop\phone_POO\bin\Debug\net7.0\phone_POO.pdb
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.dll
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\refint\phone_POO.dll
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.pdb
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\phone_POO.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\phone_POO\obj\Debug\net7.0\ref\phone_POO.dll
