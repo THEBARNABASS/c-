@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\Bolsista_POO\bin\Debug\net7.0\Bolsista_POO.exe
+C:\Users\57256639813\Desktop\Bolsista_POO\bin\Debug\net7.0\Bolsista_POO.deps.json
+C:\Users\57256639813\Desktop\Bolsista_POO\bin\Debug\net7.0\Bolsista_POO.runtimeconfig.json
+C:\Users\57256639813\Desktop\Bolsista_POO\bin\Debug\net7.0\Bolsista_POO.dll
+C:\Users\57256639813\Desktop\Bolsista_POO\bin\Debug\net7.0\Bolsista_POO.pdb
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.dll
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\refint\Bolsista_POO.dll
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.pdb
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\Bolsista_POO.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\Bolsista_POO\obj\Debug\net7.0\ref\Bolsista_POO.dll

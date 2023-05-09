@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\fahrenheit\bin\Debug\net7.0\fahrenheit.exe
+C:\Users\57256639813\Desktop\fahrenheit\bin\Debug\net7.0\fahrenheit.deps.json
+C:\Users\57256639813\Desktop\fahrenheit\bin\Debug\net7.0\fahrenheit.runtimeconfig.json
+C:\Users\57256639813\Desktop\fahrenheit\bin\Debug\net7.0\fahrenheit.dll
+C:\Users\57256639813\Desktop\fahrenheit\bin\Debug\net7.0\fahrenheit.pdb
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.dll
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\refint\fahrenheit.dll
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.pdb
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\fahrenheit.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\fahrenheit\obj\Debug\net7.0\ref\fahrenheit.dll

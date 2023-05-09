@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\bin\Debug\net7.0\Exemplo-menu.exe
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\bin\Debug\net7.0\Exemplo-menu.deps.json
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\bin\Debug\net7.0\Exemplo-menu.runtimeconfig.json
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\bin\Debug\net7.0\Exemplo-menu.dll
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\bin\Debug\net7.0\Exemplo-menu.pdb
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.dll
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\refint\Exemplo-menu.dll
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.pdb
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\Exemplo-menu.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\c-\Exemplo-menu\obj\Debug\net7.0\ref\Exemplo-menu.dll
