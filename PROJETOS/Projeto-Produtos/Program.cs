@@ -1,84 +1,86 @@
-﻿// Nesta aula vamos aplicar o seguinte projeto para gerenciamento de 10 produtos pelo console:
+﻿﻿// Os produtos terão os seguintes atributos:
 
-// Os produtos terão os seguintes atributos:
-// string Nome
-// float Preco
-// bool Promocao (se está em promoção ou não)
+// .string Nome
+// .float Preco
+// .bool Promocao (se está em promoção ou não)
 
 // O sistema deverá ter as seguintes funcionalidades:
-// CadastrarProduto
-// ListarProdutos
-// MostrarMenu
+
+// .CadastrarProduto
+// .ListarProdutos
+// .MostrarMenu
 // Crie função(ões) para otimizar o código.
 // Incremente o que achar necessário. Utilize sua lógica e sua criatividade.
 
-string opcao = "";
-bool promocao = false;
-string[] produtos = new string[10];
+int count = 3;
+char opcao;
+string[] produtos = new string[count];
+float[] preco = new float[count];
+bool[] promocao = new bool[count];
+string resposta;
 
-static bool Cadastrar()
+static bool validarPromo()
 {
-    Console.WriteLine($"Nome do Produto:");
-    string nome = Console.ReadLine();
-
-    Console.WriteLine($"Preço:");
-    float preco = float.Parse(Console.ReadLine());
-    return true;
-
+    Console.WriteLine($"o produto está em promoção?");
+    string resposta = Console.ReadLine();
+    
+    if (resposta == "sim")
+    {
+        return true;
+    }
+    else{
+        return false;
+    }
 }
 
+static void cadastro(string[] nome,float[] preco, bool[] promocao)
+{
+    for (int i = 0; i < nome.Length; i++)
+    {
+     Console.WriteLine($"Produto:");
+     nome[i]= Console.ReadLine();
 
+     Console.WriteLine($"Preço:");
+     preco[i]= float.Parse (Console.ReadLine());    
+
+     promocao[i]= validarPromo();     
+    }  
+}
 do
 {
-    Console.WriteLine($@"
-            @MENU@
-    
-    [1] - Cadastrar
-    [2] - Lidar
-    [0] - sair
+    Console.WriteLine(@$"
+Escolha uma opção do menu:
+1-cadrastrar produto
+2-Listar produto
+3-mostrar menu
+");
 
-    ");
-
-    opcao = Console.ReadLine();//lê a opção digitada pelo usuário
-
+    opcao = char.Parse(Console.ReadLine());
     switch (opcao)
     {
-
-        case "1":
-
-            string r = "";
-
-            do
+        case '1':
+            cadastro(produtos,preco,promocao);
+            break;
+        case '2':
+            for (int i = 0; i < count; i++)
             {
-                for (var i = 0; i <= 10; i++)
+                Console.WriteLine($"------------------------");
+                
+                Console.WriteLine($"Produto:{produtos[i]}");
+                Console.WriteLine($"preço:{preco[i]}");
+                if (promocao[i] == true)
                 {
-                    Console.WriteLine($"Produto{i+1}º:");
-                    produtos[i] = Cadastrar();
+                    Console.WriteLine($"**o produto está em promoção**");
                 }
-
-                Console.WriteLine($"Gostaria de cadastrar um novo produto? (S/N)");
-                r = Console.ReadLine().ToLower();
-            } while (r == "s");
-
+                else
+                {
+                    Console.WriteLine($"");
+                    
+                }        
+            }
             break;
-
-        case "2":
-
-            break;
-
-        case "0":
-            Console.WriteLine($"Fim");
-            break;
-
         default:
-            Console.WriteLine($"Opção Inválida");
             break;
     }
 
-
-
-
-} while (opcao != "0");
-
-
-
+} while (opcao != 3);

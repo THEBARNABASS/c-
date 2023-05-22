@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\Projeto de mercadoria\bin\Debug\net7.0\Projeto de mercadoria.exe
+C:\Users\57256639813\Desktop\Projeto de mercadoria\bin\Debug\net7.0\Projeto de mercadoria.deps.json
+C:\Users\57256639813\Desktop\Projeto de mercadoria\bin\Debug\net7.0\Projeto de mercadoria.runtimeconfig.json
+C:\Users\57256639813\Desktop\Projeto de mercadoria\bin\Debug\net7.0\Projeto de mercadoria.dll
+C:\Users\57256639813\Desktop\Projeto de mercadoria\bin\Debug\net7.0\Projeto de mercadoria.pdb
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.dll
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\refint\Projeto de mercadoria.dll
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.pdb
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\Projeto de mercadoria.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\Projeto de mercadoria\obj\Debug\net7.0\ref\Projeto de mercadoria.dll

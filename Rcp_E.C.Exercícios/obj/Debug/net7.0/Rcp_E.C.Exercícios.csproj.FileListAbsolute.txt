@@ -1,0 +1,15 @@
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\bin\Debug\net7.0\Rcp_E.C.Exercícios.exe
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\bin\Debug\net7.0\Rcp_E.C.Exercícios.deps.json
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\bin\Debug\net7.0\Rcp_E.C.Exercícios.runtimeconfig.json
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\bin\Debug\net7.0\Rcp_E.C.Exercícios.dll
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\bin\Debug\net7.0\Rcp_E.C.Exercícios.pdb
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.csproj.AssemblyReference.cache
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.AssemblyInfoInputs.cache
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.AssemblyInfo.cs
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.dll
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\refint\Rcp_E.C.Exercícios.dll
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.pdb
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\Rcp_E.C.Exercícios.genruntimeconfig.cache
+C:\Users\57256639813\Desktop\Rcp_E.C.Exercícios\obj\Debug\net7.0\ref\Rcp_E.C.Exercícios.dll

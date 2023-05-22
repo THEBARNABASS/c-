@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\57256639813\\Desktop\\fahrenheit\\fahrenheit.csproj",
+      "projectUniqueName": "C:\\Users\\57256639813\\Desktop\\c-\\EXEMPLOS\\cultureinfo\\fahrenheit.csproj",
       "projectName": "fahrenheit",
-      "projectPath": "C:\\Users\\57256639813\\Desktop\\fahrenheit\\fahrenheit.csproj",
+      "projectPath": "C:\\Users\\57256639813\\Desktop\\c-\\EXEMPLOS\\cultureinfo\\fahrenheit.csproj",
       "packagesPath": "C:\\Users\\57256639813\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57256639813\\Desktop\\fahrenheit\\obj\\",
+      "outputPath": "C:\\Users\\57256639813\\Desktop\\c-\\EXEMPLOS\\cultureinfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\57256639813\\AppData\\Roaming\\NuGet\\NuGet.Config",
