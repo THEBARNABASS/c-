@@ -1,0 +1,30 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\refint\JogadoresDeFutebol.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\ref\JogadoresDeFutebol.dll
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.exe
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.deps.json
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.runtimeconfig.json
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.dll
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\bin\Debug\net7.0\JogadoresDeFutebol.pdb
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.csproj.AssemblyReference.cache
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.AssemblyInfoInputs.cache
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.AssemblyInfo.cs
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.dll
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\refint\JogadoresDeFutebol.dll
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.pdb
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\JogadoresDeFutebol.genruntimeconfig.cache
+C:\Users\Basilios\Desktop\Nova pasta\CSharp-Aulas\2023-05-05\JogadoresDeFutebol\obj\Debug\net7.0\ref\JogadoresDeFutebol.dll
