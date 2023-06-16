@@ -8,8 +8,8 @@
     ViewData["Title"] = "Edit";
 }
 @* <div class="cadequipe-titulo">
-    <h1>Edição de Equipe</h1>
-    <hr>
+<h1>Edição de Equipe</h1>
+<hr>
 </div> *@
 
 @if (ViewBag.UserName == null)
@@ -20,7 +20,7 @@
 }
 else
 {
-   
+
     <section class="container-grid cadastro-equipes">
 
         <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data" class="frm-cad-equipe">
@@ -36,11 +36,10 @@ else
 
             <label class="foto" for="foto-file">
 
-            <input type="file" name="Imagem" value="@ViewBag.Equipe.Imagem">
+                <input type="file" name="Imagem" id="foto-file">
             </label>
-            
 
-
+            @* value="@ViewBag.Equipe.Imagem *@
             <button type="submit">Atualizar</button>
 
         </form>
