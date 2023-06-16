@@ -90,24 +90,40 @@ main .cadastro-equipes .frm-cad-equipe .campo-entrada {
     /* font-size: 22px; */
     color: white;
     outline: none;
-
-    font-family: TitilliumWeb-Thin, sans-serif;
+    font-family: TitilliumWeb-Thin,
+    sans-serif;
     font-size: 16px;
-
     /* efeito da borda e do fundo glass */
     border: 1px solid transparent;
     border-radius: 8px;
     background:
-        /* fundo */
-        linear-gradient(to right bottom, rgba(27, 20, 38, .8), rgba(60, 3, 65, .38)) padding-box,
-        /* fundo borda */
-        linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
+    /* fundo */
+    linear-gradient(to right bottom, rgba(27, 20, 38, .8), rgba(60, 3, 65, .38)) padding-box,
+    /* fundo borda */
+    linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
     backdrop-filter: blur(4px);
 }
 
 .frm-cad-equipe .campo-entrada::placeholder {
     color: white;
 }
+/* .frm-cad-equipe  select.campo-entrada{
+    color: red;
+    background-color: transparent;
+
+} */
+
+
+.frm-cad-equipe select.campo-entrada option {
+    color: black;
+
+}
+
+
+/* .frm-cad-equipe  select.campo-entrada option:nth-of-type(1) {
+    color: white;
+
+} */
 
 
 /* File Field */

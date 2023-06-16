@@ -36,8 +36,11 @@ else
     <input class="campo-entrada" type="password" id="senha" placeholder="Digite a Senha:" name="Senha" value="@ViewBag.Jogador.Senha">
 
     <label for="">Equipe</label>
+    
     <select name="IdEquipe" id="IdEquipe">
+
         <option value="0">Selecione uma opção: </option>
+
         @foreach (Equipe equipe in ViewBag.Equipe)
         {
             @if (equipe.IdEquipe == @ViewBag.Jogador.IdEquipe)
