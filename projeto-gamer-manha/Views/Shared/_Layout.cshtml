@@ -56,13 +56,13 @@
                 <div class="nav-bkg">
                     <nav>
                         <a asp-controller="Home" asp-action="Index">Início</a>
+                        <a href="~/#news">Notícias</a>
                          @if (ViewBag.UserName != null)
                          {
-                        <a asp-area="" asp-controller="Login" asp-action="Logout">Logout</a>
                         <a asp-controller="Jogador" asp-action="Index">Jogadores</a>
                         <a asp-controller="Equipe" asp-action="Index">Equipes</a>
+                        <a asp-area="" asp-controller="Login" asp-action="Logout">|Logout|</a>
                          }
-                        <a href="~/#news">Notícias</a>
 
                         <a class="phone-box">
                             <img src="~/assets/phone-icon.png" alt="phone icon" title="Ícone Telefone">
