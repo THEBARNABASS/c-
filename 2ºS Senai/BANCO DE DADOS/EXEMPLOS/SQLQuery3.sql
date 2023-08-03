@@ -1,0 +1,28 @@
+--DML - DATA MANIPULATION LANGUAGE
+
+--USA O BANCO
+USE TESTE;
+
+--INSERE DADOS NA TABELA
+INSERT INTO Funcionarios(Nome)
+VALUES ('JORGE')
+INSERT INTO Funcionarios(Nome)
+VALUES ('ANA')
+INSERT INTO Funcionarios(Nome)
+VALUES ('JASON')
+INSERT INTO Funcionarios(Nome)
+VALUES ('MARIA')
+INSERT INTO Funcionarios(Nome)
+VALUES ('ISA')
+INSERT INTO Funcionarios(Nome)
+VALUES ('DELAIDE')
+INSERT INTO Funcionarios(Nome)
+VALUES ('DONIZETE')
+
+--ALTERAR DADOS DA TABELA
+UPDATE Funcionarios
+SET Nome = 'FLORENTINO' WHERE IdFuncionario = 1
+
+--EXCLUIR DADOS DA TABELA
+DELETE FROM Funcionarios
+WHERE IdFuncionario IN(1,2,3,4,5)
