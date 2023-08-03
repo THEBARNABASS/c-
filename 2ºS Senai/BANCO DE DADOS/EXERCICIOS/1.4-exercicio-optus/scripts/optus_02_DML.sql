@@ -1,4 +1,4 @@
-USE EXERCICIO_1_4;
+USE Optus;
 GO
 
 INSERT INTO Artistas(Nome)
