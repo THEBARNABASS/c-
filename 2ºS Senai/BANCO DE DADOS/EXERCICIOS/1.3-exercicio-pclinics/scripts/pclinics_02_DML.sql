@@ -1,40 +1,40 @@
-USE Pclinics_M;
+USE PCLINICS_M;
 GO
 
-INSERT INTO Clinica(razaoSocial, cnpj, endereco)
-VALUES				('Meu Pimpão','99999999999999','Av. Barão de Limeira, 539');
+INSERT INTO CLINICA(RAZAOSOCIAL, CNPJ, ENDERECO)
+VALUES				('MEU PIMPÃO','99999999999999','AV. BARÃO DE LIMEIRA, 539');
 GO
 
-INSERT INTO TiposPet(descricao)
-VALUES				 ('Cachorro')
-					,('Gato');
+INSERT INTO TIPOSPET(DESCRICAO)
+VALUES				 ('CACHORRO')
+					,('GATO');
 GO
 
-INSERT INTO Raca(descricao, idTipoPet)
-VALUES			 ('Poodle', 1)
-				,('Labrador', 1)
+INSERT INTO RACA(DESCRICAO, IDTIPOPET)
+VALUES			 ('POODLE', 1)
+				,('LABRADOR', 1)
 				,('SRD', 1)
-				,('Siamês', 2);
+				,('SIAMÊS', 2);
 GO
 
-INSERT INTO Dono(nome)
-VALUES			 ('Paulo')
-				,('Odirlei');
+INSERT INTO DONO(NOME)
+VALUES			 ('PAULO')
+				,('ODIRLEI');
 GO
 
-INSERT INTO Pet(nome, dataNascimento, idRaca, idDono)
-VALUES				('Junior', '10/10/2018', 1, 1)
-				   ,('Loli', '18/05/2017', 4, 1)
-				   ,('Sammy', '16/06/2016', 1, 2);
+INSERT INTO PET(NOME, DATANASCIMENTO, IDRACA, IDDONO)
+VALUES				('JUNIOR', '10/10/2018', 1, 1)
+				   ,('LOLI', '18/05/2017', 4, 1)
+				   ,('SAMMY', '16/06/2016', 1, 2);
 GO
 
-INSERT INTO Veterinario(nome, crmv, idClinica)
-VALUES					('Saulo', '432551', 1)
-					   ,('Lucas', '653655', 1);
+INSERT INTO VETERINARIO(NOME, CRMV, IDCLINICA)
+VALUES					('SAULO', '432551', 1)
+					   ,('LUCAS', '653655', 1);
 GO
 
-INSERT INTO Atendimento(Descricao, DataAtendimento, IdVeterinario, IdPet)
-VALUES					('Restam 10 dias de vida', '22/01/2019', 1, 1)
-					   ,('O paciente está ok', '21/01/2019', 2, 2)
-					   ,('O paciente está ok', '22/01/2019', 2, 1);
+INSERT INTO ATENDIMENTO(DESCRICAO, DATAATENDIMENTO, IDVETERINARIO, IDPET)
+VALUES					('RESTAM 10 DIAS DE VIDA', '22/01/2019', 1, 1)
+					   ,('O PACIENTE ESTÁ OK', '21/01/2019', 2, 2)
+					   ,('O PACIENTE ESTÁ OK', '22/01/2019', 2, 1);
 GO
