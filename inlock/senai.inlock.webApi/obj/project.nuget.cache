@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2LnF7XiEY7hU4IIgqVSe8C1sz429EAfguOJvbuP9M8T40t71s/Anz5ExJCZb4hy3WBB+uA/fKsEBmG0NyBrqQ==",
+  "dgSpecHash": "F4dFQoaOEZEY1hEnI42uPawN9uY5IK7c0rjco9lPd5ElFmCU6VS+OjzvzVwstszx0LMdTYYVgIwLjWWpLuwvvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\57256639813\\Desktop\\inlock\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
+  "projectFilePath": "C:\\Users\\57256639813\\Desktop\\c-\\inlock\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\57256639813\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\57256639813\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

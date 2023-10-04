@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi.healthclinic</name>
+    </assembly>
+    <members>
+        <member name="T:webapi.healthclinic.Migrations.BDv3">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:webapi.healthclinic.Migrations.BDv4">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv4.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv4.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.healthclinic.Migrations.BDv4.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
