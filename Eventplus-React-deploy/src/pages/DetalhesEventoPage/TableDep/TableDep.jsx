@@ -8,8 +8,8 @@ import "react-tooltip/dist/react-tooltip.css";
 
 // import trashDelete from "../../../assets/images/trash-delete.svg";
 import "./TableDep.css";
-
-const Table = ({ dados, fnConnect = null, fnShowModal = null }) => {
+// fnShowModal = null 
+const Table = ({ dados}) => {
   return (
     <table className="tbal-data">
       <thead className="tbal-data__head">
@@ -18,10 +18,10 @@ const Table = ({ dados, fnConnect = null, fnShowModal = null }) => {
             Evento
           </th>
           <th className="tbal-data__head-title tbal-data__head-title--big">
-            Data
+            comentario
           </th>
           <th className="tbal-data__head-title tbal-data__head-title--big">
-            Ações
+           data
           </th>
         </tr>
       </thead>
@@ -33,44 +33,16 @@ const Table = ({ dados, fnConnect = null, fnShowModal = null }) => {
                 {e.nomeEvento}
               </td>
 
+              <td className="tbal-data__data tbal-data__data--big">
+                {e.descricao}
+              </td>
+
               <td className="tbal-data__data tbal-data__data--big tbal-data__btn-actions">
                 {/* {e.dataEvento} */}
                 {dateFormateDbToView(e.dataEvento)}
               </td>
 
-              <td className="tbal-data__data tbal-data__data--big tbal-data__btn-actions">
-                {/* imagem do comentário - abre o modal */}
-                {new Date(e.dataEvento) < Date.now() ? (
-                  <img
-                    className="tbal-data__icon"
-                    // idevento={e.idEvento}
-                    src={comentaryIcon}
-                    alt=""
-                    onClick={() => {
-                      fnShowModal(e.idEvento);
-                    }}
-                  />
-                ) : null}
-                <ToggleSwitch
-                  toggleActive={e.situacao}
-                  manipulationFunction={
-                    new Date(e.dataEvento) > Date.now()
-                      ? () => {
-                          fnConnect(
-                            e.idEvento,
-                            e.situacao ? "unconnect" : "connect",
-                            e.idPresencaEvento //parâmetro opcional
-                          );
-                        }
-                      : () => {
-                          alert("Evento não está mais disponível");
-                        }
-                  }
-                />
-              </td>
-              <td className="tbal-data__data tbal-data__data--big">
-                {e.comentario}
-              </td>
+  
             </tr>
           
           );
