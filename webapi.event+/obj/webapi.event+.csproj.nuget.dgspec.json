@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57256639813\\Desktop\\webapi.event+\\webapi.event+.csproj": {}
+    "C:\\Users\\57256639813\\Desktop\\c-\\webapi.event+\\webapi.event+.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57256639813\\Desktop\\webapi.event+\\webapi.event+.csproj": {
+    "C:\\Users\\57256639813\\Desktop\\c-\\webapi.event+\\webapi.event+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57256639813\\Desktop\\webapi.event+\\webapi.event+.csproj",
+        "projectUniqueName": "C:\\Users\\57256639813\\Desktop\\c-\\webapi.event+\\webapi.event+.csproj",
         "projectName": "webapi.event+",
-        "projectPath": "C:\\Users\\57256639813\\Desktop\\webapi.event+\\webapi.event+.csproj",
+        "projectPath": "C:\\Users\\57256639813\\Desktop\\c-\\webapi.event+\\webapi.event+.csproj",
         "packagesPath": "C:\\Users\\57256639813\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57256639813\\Desktop\\webapi.event+\\obj\\",
+        "outputPath": "C:\\Users\\57256639813\\Desktop\\c-\\webapi.event+\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\57256639813\\AppData\\Roaming\\NuGet\\NuGet.Config",
